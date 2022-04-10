@@ -7,3 +7,6 @@ The goal of this script is to add users to the same Linux system as the script i
 
 ## disable-local-user:
 The goal of this script is to allow for a local Linux account to be disabled, deleted, and optionally archived.
+
+## Remote-execution
+The goal of this script is to execute shell commands on multiple remote servers from an administrator server (Simulated server environment)
